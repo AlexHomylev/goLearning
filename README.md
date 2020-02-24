@@ -1,2 +1,2 @@
-# goLearning
-# goLearning
+# GoLang Learning
+# Начинаю ихучать GoLang
